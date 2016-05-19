@@ -1,1 +1,1 @@
-# stupidstuff.github.io
+# doingstupidstuff.github.io
